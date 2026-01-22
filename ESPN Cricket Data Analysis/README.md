@@ -12,13 +12,13 @@ a focus on **Batting, Bowling, and Fielding** metrics.
 ## 📷 Dashboard Screenshots
 
 ### 🏏 Batting Analysis
-![Batting](Batting.png)
+![Batting](BATTING_page.png)
 
 ### 🎯 Bowling Analysis
-![Bowling](Bowling.png)
+![Bowling](bawling_page.png)
 
 ### 🧤 Fielding Analysis
-![Fielding](Fielding.png)
+![Fielding](Fielding_page.png)
 
 ## 🛠 Tools & Skills Used
 - Power BI
