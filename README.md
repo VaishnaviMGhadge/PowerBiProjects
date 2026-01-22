@@ -1,1 +1,1 @@
-# PowerBiProjects
+Update README with project details
