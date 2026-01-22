@@ -7,4 +7,6 @@
 ### second Page
 ![Second Page](Pizza_Sales_SecondPage.png)
 
+## 👩‍💻 Author
+Vaishnavi
 
