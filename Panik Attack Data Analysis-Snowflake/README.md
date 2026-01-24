@@ -18,9 +18,9 @@ This interactive dashboard provides insights into panic attack patterns, trigger
 ![main Page](mainpage.png)
 
 ### Second Page
-![second Page](secongpahe.png)
+![second Page](secondpahe.png)
 
-### Second Page
+### last Page
 ![last Page](LastPage.png)
 ---
 ## 🛠 Tools & Technologies
