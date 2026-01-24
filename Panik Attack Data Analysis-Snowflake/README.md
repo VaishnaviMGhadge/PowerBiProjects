@@ -12,16 +12,16 @@ This interactive dashboard provides insights into panic attack patterns, trigger
 ## 📷 Dashboard Screenshots
 
 ### Front Page
-![Front Page](Front page.png)
+![Front Page](Frontpage.png)
 
 ###  main Page
-![main Page](main page.png)
+![main Page](mainpage.png)
 
 ### Second Page
-![second Page](secong pahe.png)
+![second Page](secongpahe.png)
 
 ### Second Page
-![last Page](last Page.png)
+![last Page](LastPage.png)
 ---
 ## 🛠 Tools & Technologies
 
