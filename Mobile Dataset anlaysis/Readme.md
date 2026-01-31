@@ -84,7 +84,8 @@ The dataset contains information such as:
 
 ## Features vs Price by diff. Countries (Using Bookmarks)
 ![Price](Featurespage.png) 
-> Add your dashboard screenshots here:
+
+
 ## 👩‍💻 Author
 
 **Vaishnavi Ghadge**  
