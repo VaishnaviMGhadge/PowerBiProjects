@@ -92,5 +92,5 @@ The dataset contains information such as:
 Power BI Developer | Data Analyst Aspirant  
 
 📍 India  
-📧 (Add your email if you want)  
-🔗 GitHub: (Add your GitHub link)
+📧 (ghadgevaishnavi9@gmail.com)  
+🔗 GitHub: Github(https://github.com/VaishnaviMGhadge)
