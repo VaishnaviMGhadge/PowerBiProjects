@@ -72,8 +72,18 @@ The dataset contains information such as:
 
 ## 📷 Dashboard Screenshots
 
-![Overview](screenshots/overview.png)
+![Overview](Overviewpage.png)
 
+## Camera Insights(Using Drill Through)
+![Camera Features](CameraInsights.png)
+
+
+## Pricing by different (Using Bookmarks)
+![Price](PriceAnalysis.png)
+
+
+## Features vs Price by diff. Countries (Using Bookmarks)
+![Price](Featurespage.png) 
 > Add your dashboard screenshots here:
 ## 👩‍💻 Author
 
